@@ -41,8 +41,8 @@ This webpage is a temporary home for my landing page for my programming portfoli
 - Confirm `gh-pages` branch is set up as the GitHub pages branch
 
 ## GitHub Links
-[GitHub Repo](https://github.com/mireie/portfolio)
-[GitHub Pages](https://mireie.github.io/portfolio/)
+- [GitHub Repo](https://github.com/mireie/portfolio)
+- [GitHub Pages](https://mireie.github.io/portfolio/)
 
 ## Known Bugs
 
