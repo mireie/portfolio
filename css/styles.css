@@ -6,6 +6,12 @@
     background-repeat:no-repeat;
   }
 }
+@media screen and (max-width:767px) {
+  body {
+    background:#252525;
+  }
+  
+}
 
 #headshot {
   max-width: 100px;
@@ -26,10 +32,13 @@
 .main, #header {
   background-color:rgba(256, 256, 256, .9);
   border-radius: 1rem;
-  margin-bottom:1rem;
+  margin:1rem auto;
 }
 .no-bullet {
   list-style-type: none;
   margin:0;
   padding:0;
+}
+.main {
+  padding:1rem;
 }
