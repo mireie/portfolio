@@ -9,7 +9,10 @@
   body {
     background:#252525;
   }
-  
+  .display-5 {
+    font-size:1.5rem;
+    padding-top:1rem;
+  }
 }
 
 #headshot {
