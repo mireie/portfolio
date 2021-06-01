@@ -13,6 +13,9 @@
     font-size:1.5rem;
     padding-top:1rem;
   }
+  #copyright {
+    display:none;
+  }
 }
 
 #headshot {
