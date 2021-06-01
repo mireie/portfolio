@@ -37,8 +37,13 @@ This webpage is a temporary home for my landing page for my programming portfoli
 
 ## Setup/Installation Requirements
 
-- Clone repository from GitHub
-- Confirm `gh-pages` branch is set up as the GitHub pages branch
+- Create and enter a directory on your local machine for the project
+- Clone public repository from GitHub using `git clone https://github.com/mireie/portfolio`
+- Open `index.html` to view the web page in your browser
+  - Terminal methods by OS:
+    - Linux: `xdg-open index.html`
+    - MacOS: `open index.html`
+    - Windows: `start index.htm`
 
 ## GitHub Links
 - [GitHub Repo](https://github.com/mireie/portfolio)
